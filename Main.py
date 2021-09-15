@@ -21,7 +21,7 @@ from scores import *
 from pygame import mixer
 import random
 
-
+# hope you like it
 class hangman(QMainWindow):
     def __init__(self):
         super(hangman, self).__init__()
